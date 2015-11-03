@@ -25,6 +25,7 @@ import java.util.List;
  * 
  * 
  */
+//Bai mau kiem tra
 
 public class JWhiteBoard extends ReceiverAdapter implements ActionListener, ChannelListener {
     protected String               groupName="";
