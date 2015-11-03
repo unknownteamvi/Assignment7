@@ -23,7 +23,7 @@ import java.util.List;
  * @author Bela Ban, Oct 17 2001
  * 
  * Cau hinh github
- * 
+ * Chay github
  */
 
 public class JWhiteBoard extends ReceiverAdapter implements ActionListener, ChannelListener {
